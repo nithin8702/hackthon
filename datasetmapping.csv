@@ -1,0 +1,3 @@
+dataset1,ds1_type,dataset2,ds2_type,filename,function
+uti id,string,trade id,string,G:\\DataScience\\Samples\\Demo1\\test7.py,
+price,decimal,value,decimal,,
